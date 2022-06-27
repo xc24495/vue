@@ -20,3 +20,6 @@ axios.request(options).then(function (response) {
 }).catch(function (error) {
 	console.error(error);
 });
+
+
+https://qa.developer.icg.citi.net/portal-auth/changepassword?token=bGp6Vk5qeFdNWUwrd2pqdmtVMlA1Ulg5YklaVGVtbG13YlU4WmVSdkp3SGZLOWs4NlZ4RCtiM0hqWmVYR3hyQytvandGVUJrNTNwOHlEMk41MVdTNmc9PQ&emailReset=ICG-API&language=EN
