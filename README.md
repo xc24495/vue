@@ -22,4 +22,4 @@ axios.request(options).then(function (response) {
 });
 
 
-https://qa.developer.icg.citi.net/portal-auth/changepassword?token=bGp6Vk5qeFdNWUwrd2pqdmtVMlA1Ulg5YklaVGVtbG13YlU4WmVSdkp3RmhnY1pYSFpjZTRQbDNncDMvdVZLaHhVVGF6aXZabGtLaEJmWEIzMTFuemc9PQ&emailReset=ICG-API&language=EN
+https://qa.developer.icg.citi.net/portal-auth/changepassword?token=bGp6Vk5qeFdNWUwrd2pqdmtVMlA1Ulg5YklaVGVtbG13YlU4WmVSdkp3R0JIN1NQVXdnRGQxUHN4bWo0NVJRY3ZCOEtReitTOWxzUVVJZ01EMTJRUUE9PQ&emailReset=ICG-API&language=EN
